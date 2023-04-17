@@ -1,0 +1,31 @@
+.layout{
+    background-image: url(layout.jpg);
+    background-size: cover;
+    height: 50vh;
+}
+ h1{
+    color: brown;
+    text-align: center;
+} 
+.place{
+    
+   display: grid;
+   place-items: center;
+   
+    
+}
+.des{
+    width:100px;
+    border: none;
+}
+.mark{
+    border: 2px solid brown;
+    border-radius: 10px;
+}
+.icon{
+   
+    background-color: white;
+}
+.reg{
+    border: none;
+}
