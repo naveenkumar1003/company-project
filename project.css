@@ -1,0 +1,44 @@
+.layout{
+    background-image: url(layout.jpg);
+    background-size: cover;
+    height: 50vh;
+}
+.text-violet{
+    color:purple;
+}
+ h1{
+    color: brown;
+    text-align: center;
+}
+.bg-violet{
+    background-color: purple;
+}
+.place{
+    
+   display: grid;
+   place-items: center;
+   
+    
+}
+.des{
+    width:100px;
+    border: none;
+}
+.mark{
+    border: 2px solid purple;
+    border-radius: 10px;
+}
+.icon{
+   
+    background-color: white;
+}
+.reg{
+    border: none;
+}
+.drop{
+    border: 2px solid purple;
+    
+}
+.center{
+    text-align: center;
+}
